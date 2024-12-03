@@ -1,6 +1,3 @@
-# pip install streamlit seaborn matplotlib pandas joypy
-# streamlit run sampleStatic.py
-
 # Data: https://www.geeksforgeeks.org/seaborn-datasets-for-data-science/
 
 import streamlit as st

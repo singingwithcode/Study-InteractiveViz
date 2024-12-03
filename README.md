@@ -1,1 +1,1 @@
-streamlit run `<name_of_file.py>`
+streamlit run `V2/<name_of_file.py>`

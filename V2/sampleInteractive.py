@@ -1,6 +1,3 @@
-# pip install streamlit seaborn pandas plotly altair
-# streamlit run sampleInteractive.py
-
 # Data: https://www.geeksforgeeks.org/seaborn-datasets-for-data-science/
 
 
